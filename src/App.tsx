@@ -336,7 +336,7 @@ export default function App() {
         >
           {/* BACKGROUND TEMPLE IMAGE: Slightly brighter when scrolling up/day, darker when scrolling down/night */}
           <motion.img
-            src="/src/assets/images/misty_temple_1780836265051.png"
+            src="/images/misty_temple_1780836265051.png"
             alt="Atmospheric misty traditional screen"
             referrerPolicy="no-referrer"
             style={{ opacity: bgImgOpacity }}
