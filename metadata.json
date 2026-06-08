@@ -1,0 +1,6 @@
+{
+  "name": "Vibe Studio",
+  "description": "Estudio premium de desarrollo y diseño web. Tu negocio con presencia web de alta gama por solo $20 USD. Landing pages interactivas, panel autogestionable y vistas previas gratuitas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
